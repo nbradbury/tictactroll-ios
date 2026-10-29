@@ -2,6 +2,12 @@
 
 *A game of mild contempt.* Tic-tac-toe for iPhone and iPad, played with trolls who look each other over, grumble "meh" and "bleh", and topple off their crates into the dirt, then pop, when they lose. A SwiftUI port of [Tic Tac Troll for Android](https://github.com/nbradbury/tictactroll-android).
 
+
+
+https://github.com/user-attachments/assets/dd26e2d7-d9fb-4cca-8798-4104240e3469
+
+
+
 ## Features
 
 - **Play the CPU or a friend.** Three CPU skill levels: Easy (random), Medium (wins or blocks when it can, mostly), and Troll (minimax; never loses in classic games). Two-player mode is pass-and-play.
