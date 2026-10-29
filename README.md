@@ -1,4 +1,4 @@
-# Tic Tac Troll
+# <img src="TicTacTroll/Assets.xcassets/AppIcon.appiconset/icon.png" width="48" align="absmiddle" alt=""> Tic Tac Troll
 
 *A game of mild contempt.* Tic-tac-toe for iPhone and iPad, played with trolls who look each other over, grumble "meh" and "bleh", and topple off their crates into the dirt, then pop, when they lose. A SwiftUI port of [Tic Tac Troll for Android](https://github.com/nbradbury/tictactroll-android).
 
